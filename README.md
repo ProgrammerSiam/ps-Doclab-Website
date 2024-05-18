@@ -1,29 +1,26 @@
-
-
-## Demo Screeshots
-
-![Doclab Desktop Demo](./readme-images/desktop.png "Desktop Demo")
+### Demo Screeshots
+  <a href="#" target="_blank">
+      <img src="https://i.ibb.co/YRk948Q/doclab-website.jpg" alt="Project Banner">
+    </a>
 
 ## Prerequisites
-
 Before you begin, ensure you have met the following requirements:
 
 * [Git](https://git-scm.com/downloads "Download Git") must be installed on your operating system.
 
 ## Run Locally
-
-To run **Doclab** locally, run this command on your git bash:
+To run **Coffee-Website** locally, run this command on your git bash:
 
 Linux and macOS:
 
 ```bash
-sudo git https://github.com/ProgrammerSiam/ps-Doclab-Website.git
+sudo git clone https://github.com/ProgrammerSiam/ps-Coffee-Website.git
 ```
 
 Windows:
 
 ```bash
-git clone https://github.com/ProgrammerSiam/ps-Doclab-Website.git
+git clone https://github.com/ProgrammerSiam/ps-Coffee-Website.git
 ```
 
 
@@ -40,5 +37,10 @@ git clone https://github.com/ProgrammerSiam/ps-Doclab-Website.git
 
 
 ## License
+This project is <strong>free to use</strong>  and does not contains any license.
 
-This project is **free to use** and does not contains any license.
+
+
+
+
+
